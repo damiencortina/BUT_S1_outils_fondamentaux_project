@@ -25,6 +25,6 @@ En partant de ce fichier de base, je vais écrire mon propre programme en utilis
 
 * possibilité de tourner le cube avec les touches fléchées
 * possibilité de zoomer avec les touches + et -
-* possibilité de basculer en 2 algorithmes de tracé
+* [x] possibilité de basculer entre 2 algorithmes de tracé
 * possibilité de varier la perspective
 * comparaison de la vitesse de rendu entre le calcul de matrice "manuel" et en utilisant numpy

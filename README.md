@@ -2,6 +2,14 @@
 
 ## Affichage d'un cube et rotation de celui ci avec des matrices de projection.
 
+Exécuter le code :
+
+```bash
+python main.py
+```
+
+2 cubes en rotation sont alors visibles. Le premier est tracé avec l'algorithme de tracé de Bresenham et le second avec une version plus simple.
+
 Pour ce projet, je me suis aidé de l'IA (Claude) afin de :
 
 * chercher des idées de projet
